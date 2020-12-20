@@ -12,19 +12,18 @@ header {
     display: flex;
     width: 90%;
     margin: auto;
+    height: 10vh;
+    align-items: center;
 }
 
 .logo-container {
-    background-color: aliceblue;
     flex: 1;
 }   
 
 nav {
-    background-color: blueviolet;
     flex: 2;
 }
 
 .cart {
-    background-color: coral;
     flex: 1;
 }
