@@ -35,6 +35,10 @@ nav {
     flex: 2;
 }
 
+.nav-links {
+    justify-content: space-around;
+}
+
 .cart {
     flex: 1;
 }
