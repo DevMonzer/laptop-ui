@@ -8,7 +8,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-.header {
+header {
     display: flex;
     background-color: aliceblue;
     width: 90%;
