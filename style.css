@@ -48,4 +48,5 @@ nav {
 
 .cart {
     flex: 1;
+    justify-content: flex-end;
 }
