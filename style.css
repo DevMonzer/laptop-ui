@@ -16,6 +16,12 @@ header {
     align-items: center;
 }
 
+.logo-container,
+.nav-links,
+.cart {
+    display: flex;
+}
+
 .logo-container {
     flex: 1;
 }   
