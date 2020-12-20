@@ -26,6 +26,11 @@ header {
     flex: 1;
 }   
 
+.logo {
+    font-weight: 400;
+    margin: 5px;
+}
+
 nav {
     flex: 2;
 }
