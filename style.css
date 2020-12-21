@@ -158,3 +158,25 @@ nav {
         transform: translateY(0);
     }
 }
+
+@media screen and (max-width: 1024px) {
+    .presentation {
+
+    }
+
+    .introduction {
+
+    }
+
+    .intro-text h1 {
+
+    }
+
+    .intro-text p {
+
+    }
+
+    .cta {
+        
+    }
+}
