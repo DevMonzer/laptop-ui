@@ -184,5 +184,6 @@ nav {
     .laptop-select {
         bottom: 5%;
         right: 50%;
+        width: 50%;
     }
 }
