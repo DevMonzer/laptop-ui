@@ -56,6 +56,11 @@ nav {
     width: 90%;
     margin: auto;
     min-height: 80vh;
+    align-items: center;
+}
+
+.introduction {
+    flex: 1;
 }
 
 .cover img {
