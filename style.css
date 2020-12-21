@@ -126,6 +126,8 @@ nav {
     position: absolute;
     top: 30%;
     right: 30%;
+    z-index: -1;
+    height: 60%;
 }
 
 .small-circle {
