@@ -98,7 +98,8 @@ nav {
 }
 
 .cta-add {
-
+    border: none;
+    color: white;
 }
 
 .cover {
