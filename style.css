@@ -53,8 +53,12 @@ nav {
 
 .presentation {
     display: flex;
+    width: 90%;
+    margin: auto;
+    min-height: 80vh;
 }
 
 .cover img {
     height: 60vh;
 }
+
