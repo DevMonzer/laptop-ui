@@ -110,5 +110,6 @@ nav {
 
 .cover img {
     height: 60vh;
+    filter: drop-shadow(0 5px 3px black);
 }
 
