@@ -194,4 +194,10 @@ nav {
     .cover img {
         height: 80%;
     }
+
+    .small-circle,
+    .medium-circle,
+    .big-circle {
+        opacity: 0.2;
+    }
 }
