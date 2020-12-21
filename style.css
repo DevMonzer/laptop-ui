@@ -63,6 +63,10 @@ nav {
     flex: 1;
 }
 
+.cover {
+    flex: 1;
+}
+
 .cover img {
     height: 60vh;
 }
