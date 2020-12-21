@@ -180,4 +180,9 @@ nav {
     .cta {
         padding: 10px 0 0 0;
     }
+
+    .laptop-select {
+        bottom: 5%;
+        right: 50%;
+    }
 }
