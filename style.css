@@ -54,3 +54,7 @@ nav {
 .presentation {
     display: flex;
 }
+
+.cover img {
+    height: 60vh;
+}
