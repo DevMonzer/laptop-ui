@@ -71,6 +71,12 @@ nav {
     -webkit-text-fill-color: transparent;
 }
 
+.intro-text p {
+    margin-top: 5px;
+    font-size: 22px;
+    color: ;
+}
+
 .cover {
     flex: 1;
 }
