@@ -165,7 +165,8 @@ nav {
     }
 
     .introduction {
-
+        margin-top: 5vh;
+        text-align: center;
     }
 
     .intro-text h1 {
