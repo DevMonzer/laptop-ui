@@ -63,6 +63,11 @@ nav {
     flex: 1;
 }
 
+.intro-text {
+    font-style: 44px;
+    font-weight: 500;
+}
+
 .cover {
     flex: 1;
 }
