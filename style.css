@@ -161,7 +161,7 @@ nav {
 
 @media screen and (max-width: 1024px) {
     .presentation {
-
+        flex-direction: column;
     }
 
     .introduction {
@@ -177,6 +177,6 @@ nav {
     }
 
     .cta {
-        
+
     }
 }
