@@ -137,3 +137,8 @@ nav {
     left: 20%;
     z-index: -1;
 }
+
+.laptop-select {
+    width: 15%;
+    display: flex;
+}
