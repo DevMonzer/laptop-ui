@@ -124,6 +124,8 @@ nav {
 
 .medium-circle {
     position: absolute;
+    top: 30%;
+    right: 30%;
 }
 
 .small-circle {
