@@ -74,7 +74,17 @@ nav {
 .intro-text p {
     margin-top: 5px;
     font-size: 22px;
-    color: ;
+    color: #585772;
+}
+
+.cta {
+    padding: 50px 0 0 0;
+}
+
+.cta-select {
+    border: 2px solid #c36cbb;
+    background: transparent;
+    color:  #c36cbb;
 }
 
 .cover {
