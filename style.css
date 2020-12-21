@@ -82,13 +82,23 @@ nav {
     padding: 50px 0 0 0;
 }
 
-.cta-select {
-    border: 2px solid #c36cbb;
+
+.cta-select,
+.cta-add {
     background: transparent;
-    color:  #c36cbb;
     width: 150px;
     height: 50px;
     cursor: pointer;
+    font-size: 16px;
+}
+
+.cta-select {
+    border: 2px solid #c36cbb;
+    color:  #c36cbb;
+}
+
+.cta-add {
+
 }
 
 .cover {
